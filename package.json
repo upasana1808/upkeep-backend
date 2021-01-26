@@ -1,0 +1,28 @@
+{
+  "name": "upkeep-backend",
+  "version": "1.0.0",
+  "description": "upkeepbackend\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upasana9999/Hello.git"
+  },
+  "author": "Upasana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upasana9999/Hello/issues"
+  },
+  "homepage": "https://github.com/upasana9999/Hello#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.6",
+    "request": "^2.88.2"
+  }
+}
